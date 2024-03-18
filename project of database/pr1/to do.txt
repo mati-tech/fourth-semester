@@ -1,0 +1,46 @@
+Creating an IDEF0 model for your English academy with labels in Russian will involve translating the main components we discussed earlier. Here’s how the key elements translate:
+
+### Top-Level Function
+- **Function**: Преподавание английского языка
+- **Input**: Студенты
+- **Output**: Студенты, владеющие английским языком
+- **Control**: Учебный план и образовательные стандарты
+- **Mechanism**: Учителя, учебные материалы
+
+### Major Functions
+1. **Набор Студентов**
+   - Input: Заявления
+   - Output: Зачисленные студенты
+   - Control: Критерии зачисления, сроки подачи заявлений
+   - Mechanism: Система зачисления, административный персонал
+
+2. **Разработка Курса**
+   - Input: Стандарты учебных программ, образовательные цели
+   - Output: Программы курсов, материалы
+   - Control: Образовательные стандарты, отзывы учителей
+   - Mechanism: Эксперты по образованию, учителя
+
+3. **Преподавание**
+   - Input: Зачисленные студенты, учебные материалы
+   - Output: Обученные студенты, отзывы
+   - Control: Учебный план, расписание занятий
+   - Mechanism: Учителя, аудитории, онлайн платформы (при наличии)
+
+4. **Оценка**
+   - Input: Работы студентов (домашние задания, экзамены)
+   - Output: Оценки, отзывы
+   - Control: Система оценок, академические стандарты
+   - Mechanism: Учителя, инструменты оценки
+
+@#!----------------------
+5. **Служба Поддержки Студентов**
+   - Input: Запросы студентов, отзывы
+   - Output: Решенные запросы, руководство
+   - Control: Стандарты обслуживания, политика конфиденциальности
+   - Mechanism: Персонал службы поддержки, информационные ресурсы
+
+### Visual Representation and Tips
+
+For visual representation and further steps, the process remains the same as previously described, just ensure that all labels on your diagram are in Russian to align with your requirement. Using software that supports Cyrillic text will be crucial for creating and editing your diagram effectively.
+
+If you have specific aspects of the IDEF0 model you'd like to focus on or need further clarification in Russian, feel free to ask!
